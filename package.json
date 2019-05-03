@@ -1,6 +1,6 @@
 {
   "name": "@pearlchain/powergrid",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/bundle.js",
   "peerDependencies": {
     "jquery": "^3.1.0"
